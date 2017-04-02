@@ -11,15 +11,15 @@ The distance between the particales can be calculated as
 ---
 ---
 <p> The Coulomb Force <bold>F</bold><sub>i</sub> acting on all the particles due to presence of all particles with i=1.....N acting on each particle via</p> 
-![forces](https://cloud.githubusercontent.com/assets/19593595/21468883/e22558de-ca2c-11e6-95ee-96ad1f403654.png)
+![forces] (https://cloud.githubusercontent.com/assets/19593595/21468883/e22558de-ca2c-11e6-95ee-96ad1f403654.png)
 ---
 ---
 <p>The Coulomb potential has been calculated at each particle position via  </p>
-![potential](https://cloud.githubusercontent.com/assets/19593595/21468939/7500c574-ca2f-11e6-80cb-62a37af455a0.png)
+![potential] (https://cloud.githubusercontent.com/assets/19593595/21468939/7500c574-ca2f-11e6-80cb-62a37af455a0.png)
 ---
 ---
 <p>The Coulomb Energy has been calculated via </p>
-![energy](https://cloud.githubusercontent.com/assets/19593595/21468942/cf2badd4-ca2f-11e6-9131-701459c267e0.png)
+![energy] (https://cloud.githubusercontent.com/assets/19593595/21468942/cf2badd4-ca2f-11e6-9131-701459c267e0.png)
 ---
 ---
 I run this code on [pico](http://www.hpc.cineca.it/hardware/pico) cluster of CINECA supercomputing centre.
