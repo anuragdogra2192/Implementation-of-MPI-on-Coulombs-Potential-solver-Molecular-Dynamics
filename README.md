@@ -1,7 +1,7 @@
-#### MPI implementaion on Coulumbs Potential
+#### MPI implementaion on Coulomb's Potential
 ---
 In molecular dynamics (MD) there is a pairwise interaction between N set of particles.This code is to implement the Coulomb Solver.The simple_sequential.cpp is the sequential code of Coulomb Solver without MPI(Message Passing Interface).
-MPI_potential.cpp is the MPI implementation on the simple sequential code.
+MPI_potential.cpp is the MPI implementation on the simple sequential code. For refering the Theory of Coulomb's Law  refer this link https://en.wikipedia.org/wiki/Coulomb%27s_law
 
 ---
 I run this code on [pico](http://www.hpc.cineca.it/hardware/pico) cluster of CINECA supercomputing centre.
